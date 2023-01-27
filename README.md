@@ -4,6 +4,6 @@
 
 ## Dependency Wheel - Erasmus Students
 
-Example of a dependency wheel graphic. Data taken from #TidyTuesday, graphic shows flow of students participating in the Erasmus Program from country to country.
+Example of a dependency wheel graphic. Data taken from [#TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-03-08/readme.md), graphic shows flow of students participating in the Erasmus Program from country to country.
 
-![](wheel-erasmus/erasmus-highcharter.gif){width="100%"}
+![](wheel-erasmus/erasmus-highcharter.gif)
