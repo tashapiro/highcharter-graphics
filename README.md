@@ -6,4 +6,4 @@
 
 Example of a dependency wheel graphic. Data taken from #TidyTuesday, graphic shows flow of students participating in the Erasmus Program from country to country.
 
-![](wheel-erasmus/erasmus-highcharter.gif)
+![](wheel-erasmus/erasmus-highcharter.gif){width="100%"}
